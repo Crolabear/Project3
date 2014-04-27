@@ -1,0 +1,11 @@
+Obtain data from github:
+clone this repository.
+
+
+https://github.com/umbrae/reddit-top-2.5-million
+
+
+Place all scripts and run the Runscript.ipynb
+Place all text file in the same local directory, and run Data processing. Those data files are obtained from internet: consists of common stop words.
+
+after data processing is done, run the Gengraph script to get a picture.
