@@ -4,8 +4,10 @@ clone this repository.
 
 https://github.com/umbrae/reddit-top-2.5-million
 
+After finish cloning, you will see a data directory containing 2500 csv files.
+Place all the scripts, ipynb files, and textfiles in the data directory and run the Runscript.ipynb
 
-Place all scripts and run the Runscript.ipynb
-Place all text file in the same local directory, and run Data processing. Those data files are obtained from internet: consists of common stop words.
+after data processing is done, run the RedditTextAnalysis.ipynb.
 
-after data processing is done, run the Gengraph script to get a picture.
+
+scp10.sh is used to generate a pdf version.

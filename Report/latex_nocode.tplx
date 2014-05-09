@@ -1,0 +1,10 @@
+((*- extends 'latex_article.tplx' -*))
+% Disable input cells
+((* block input_group *))
+((* endblock input_group *))
+((* block author *))
+\author{Jianyu Li}
+((* endblock author *))
+((* block title *))
+\title{Subreddit Text Similarity Analysis}
+((* endblock title *))
